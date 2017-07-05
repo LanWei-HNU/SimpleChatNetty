@@ -1,1 +1,1 @@
-# SimpleChatNetty
+netty搭建简单聊天室范例
